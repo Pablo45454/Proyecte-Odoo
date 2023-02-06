@@ -1,0 +1,2 @@
+# Proyecte-Odoo
+Odoo Individual
